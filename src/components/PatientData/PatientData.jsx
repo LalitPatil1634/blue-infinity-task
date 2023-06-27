@@ -34,6 +34,7 @@ const PatientData = () => {
                     src={item.img}
                     className="w-[80px] h-[80px]"
                     loading={lazy}
+                    alt="patient-pic"
                   />
                 </div>
 

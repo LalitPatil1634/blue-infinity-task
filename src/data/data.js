@@ -1,8 +1,5 @@
 import userpic from "../assets/rectangle-39.png";
 
-let price = null;
-let quantitiy = null;
-
 export const patient = [
   {
     id: 1,
@@ -116,8 +113,6 @@ export const patient = [
       {
         no: 2,
         service_name: "X-ray",
-        price: 1500,
-        quantity: 1,
       },
     ],
   },
